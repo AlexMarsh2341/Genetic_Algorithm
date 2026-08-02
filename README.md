@@ -6,8 +6,9 @@ This project uses a genetic algorithm (GA) to optimize residential heating syste
 The project was developed as part of an Artificial Intelligence laboratory assignment to demonstrate the use of population-based optimization techniques.
 
 Features:
-Genetic algorithm optimization
+Genetic algorithm optimization, 
 Heating system simulation using one year of weather data
+
 Fitness evaluation based on:
 Energy consumption
 Operating cost
@@ -118,11 +119,11 @@ The constrained version introduces symbolic knowledge into the optimization proc
 
 Examples include restricting incompatible combinations of:
 
-heating type
-control strategy
-insulation quality
-house size
-target temperature
+heating type, 
+control strategy, 
+insulation quality, 
+house size, 
+target temperature, 
 
 Invalid solutions are rejected before entering the population.
 
@@ -141,6 +142,6 @@ optimization performance
 realism of the final solutions
 
 Technologies:
-Python 3
-pandas
+Python 3, 
+pandas, 
 matplotlib
