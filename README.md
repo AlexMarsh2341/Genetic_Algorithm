@@ -22,11 +22,11 @@ Heating System Representation
 
 Each solution contains the following parameters:
 
-House Size:	Small, Medium, Large
-  Insulation Quality:	Poor, Normal, Good
-  Heating Type:	Oil, Electric, Pellets, Geothermal
-  Target Temperature:	16–22 °C
-  Control Strategy:	Normal, Aggressive, Energy Saver
+House Size:	Small, Medium, Large <br>
+Insulation Quality:	Poor, Normal, Good <br>
+Heating Type:	Oil, Electric, Pellets, Geothermal <br>
+Target Temperature:	16–22 °C <br>
+Control Strategy:	Normal, Aggressive, Energy Saver <br>
 
 Genetic Algorithm
 
