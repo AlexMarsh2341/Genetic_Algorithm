@@ -14,8 +14,7 @@ Energy consumption
 Operating cost  
 Comfort penalty  
 Population diversity analysis  
-Convergence visualization
-Top-performing solution comparison     
+Convergence visualization     
 CSV export of fitness history  
 Comparison between unconstrained and constrained optimization  
 
@@ -23,11 +22,11 @@ Heating System Representation
 
 Each solution contains the following parameters:
 
-House Size:	Small, Medium, Large\
-Insulation Quality:	Poor, Normal, Good
-Heating Type:	Oil, Electric, Pellets, Geothermal
-Target Temperature:	16–22 °C
-Control Strategy:	Normal, Aggressive, Energy Saver
+House Size:	Small, Medium, Large
+  Insulation Quality:	Poor, Normal, Good
+  Heating Type:	Oil, Electric, Pellets, Geothermal
+  Target Temperature:	16–22 °C
+  Control Strategy:	Normal, Aggressive, Energy Saver
 
 Genetic Algorithm
 
