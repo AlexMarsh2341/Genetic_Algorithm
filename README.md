@@ -15,7 +15,7 @@ Operating cost
 Comfort penalty  
 Population diversity analysis  
 Convergence visualization
-Top-performing solution comparison   
+Top-performing solution comparison     
 CSV export of fitness history  
 Comparison between unconstrained and constrained optimization  
 
